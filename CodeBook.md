@@ -1,14 +1,14 @@
-#**Exploratory Data Analysis Project One**#
-##**Plotting with R Base**##
-####**CodBook.md**####
-#####Developer: Craig Anderson#####
-#####Date: October 19, 2017#####
+**Exploratory Data Analysis Project One**  
+**Plotting with R Base**  
+**CodeBook.md**  
+Developer: Craig Anderson  
+Date: October 19, 2017  
 
-###**Overview**###
+**Overview**
 
 This CodeBook describes the data used in the project.  
 
-###**Dataset**###
+**Dataset**
 
 This project uses data from the UC Irvine Machinge Larning Repository. The specific data file is the individual household electric power consumption dataset downloaded from:
 https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
@@ -19,7 +19,7 @@ A full description of the raw data set can be found at   https://archive.ics.uci
 
 The original data files were downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-###**Data Key**###
+**Data Key**
 
 Each record contains nine fields as follows:
 
