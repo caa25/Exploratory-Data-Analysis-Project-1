@@ -59,7 +59,7 @@ There are two possible approaches to reading in and extracting the needed data:
 
 1. Downloading the entire dataset in each plot\*.R file, reading in the database and extracting the records for the two days.  This is possible and workable, but seems unwieldly since the process repeats each time a plot*() function is called.
 
-2. Downloading in each plot*.R file only the records for the two days.  This is the approach pursued in this project.  While it might not make a significant difference for this dataset, the process of understanding how rio can be used to subset file downloads would proove very useful for extremely large data files.
+2. Downloading in each plot*.R file only the records for the two days.  This is the approach pursued in this project.  While it might not make a significant difference for this dataset, the process of understanding how rio can be used to subset file downloads would prove very useful for extremely large data files.
 
 To analyze the datafile, the first 10 rows were downloaded and reviewed. This review indicated that there is way more data than necessary for the plots, which was expected since we need only two days out of four years of data.   The review also produced metadata about variable classes and ranges that make it possible to construct a more limited query.  Two important observations stand out:
 
