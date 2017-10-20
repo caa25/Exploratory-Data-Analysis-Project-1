@@ -10,7 +10,7 @@
 ##
 #################################################################################################
 
-## This function constructions the tidy dataset for the plotting analysis
+## This function constructs the tidy dataset for the plotting analysis
 ##_____________________________________________________________________________________________
 
 get_data <- function(){
