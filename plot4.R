@@ -10,7 +10,7 @@
 ##
 #################################################################################################
 
-## This function constructions the tidy dataset for the plotting analysis
+## This function constructs the tidy dataset for the plotting analysis
 ##_____________________________________________________________________________________________
 
 get_data <- function(){
@@ -43,7 +43,7 @@ get_data <- function(){
     
 }
 
-## This is the plotting function for the plot3 line graph 
+## This is the plotting function for the plot4 line graph 
 ##_____________________________________________________________________________________________
 
 plot4 <- function() {
